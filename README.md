@@ -291,7 +291,27 @@ The following are not currently implemented but would be reasonable next steps:
 
 ## Screenshots
 
-Screenshots can be added here later for the login screen, client dashboard, admin dashboard, AI triage modal, ticket timeline, and internal comments workflow. No screenshot files are currently referenced by this README.
+
+### Landing Page
+![Landing Page](screenshots/landing.png)
+
+### User Dashboard
+![User Dashboard](screenshots/user.png)
+
+### Ticket Management
+![Ticket Management](screenshots/ticket.png)
+
+### Ticket Creation
+![Ticket Creation](screenshots/ticketcreation.png)
+
+### Ticket Information
+![Ticket Information](screenshots/ticketinfo.png)
+
+### Admin Ticket Information
+![Admin Ticket Information](screenshots/ticket%20info%20admin.png)
+
+### Ticket Lifecycle
+![Ticket Lifecycle](screenshots/ticket%20lifecycle.png)
 
 ## Security Notes
 
